@@ -61,3 +61,5 @@ Atributos: idDirectivo
 Organizacion
 
 Métodos: gestionar()
+* Diagrama Original
+![Captura de pantalla 2024-07-26 061739](https://github.com/user-attachments/assets/a2e0e455-1096-43c2-9296-1227982a01f3)
